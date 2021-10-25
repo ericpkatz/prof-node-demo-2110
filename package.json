@@ -1,0 +1,23 @@
+{
+  "name": "node-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "stretch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericpkatz/prof-node-demo-2110.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericpkatz/prof-node-demo-2110/issues"
+  },
+  "homepage": "https://github.com/ericpkatz/prof-node-demo-2110#readme",
+  "dependencies": {
+    "nodemon": "^2.0.14"
+  }
+}

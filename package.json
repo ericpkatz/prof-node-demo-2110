@@ -5,7 +5,8 @@
   "main": "stretch.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "stretch": "nodemon stretch"
+    "stretch": "nodemon stretch",
+    "myFileReader": "nodemon myFileReader"
   },
   "repository": {
     "type": "git",
